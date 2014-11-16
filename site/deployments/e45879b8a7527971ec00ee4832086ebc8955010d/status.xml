@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>e45879b8a7527971ec00ee4832086ebc8955010d</id>
+  <author>Makoto16</author>
+  <deployer>GitHub</deployer>
+  <authorEmail>Jonuma1@binghamton.edu</authorEmail>
+  <message>Initial Commit</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2014-11-16T16:35:48.7720192Z</lastSuccessEndTime>
+  <receivedTime>2014-11-16T16:30:09.2962145Z</receivedTime>
+  <startTime>2014-11-16T16:35:47.6470049Z</startTime>
+  <endTime>2014-11-16T16:35:48.7720192Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>

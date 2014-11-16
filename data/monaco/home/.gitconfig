@@ -14,3 +14,6 @@
 [credential]
 	useHttpPath = true
 	helper = !\"$HOME/bin/cred.sh\"
+[user]
+	name = Jeremy Onuma
+	email = jonuma16@gmail.com

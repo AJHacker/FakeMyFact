@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+  <entry time="2014-11-16T16:35:47.553258Z" id="b45b0b22-de44-4bac-934e-e3251b1c2b66" type="0">
+    <message>Updating submodules.</message>
+  </entry>
+  <entry time="2014-11-16T16:35:47.6157464Z" id="4ec6cf87-5b0d-4f82-80e2-fac2af2e629d" type="0">
+    <message>Preparing deployment for commit id 'e45879b8a7'.</message>
+  </entry>
+  <entry time="2014-11-16T16:35:47.7720181Z" id="7521b2f8-bdbe-47b9-a045-7cc27e67d123" type="0">
+    <message>Generating deployment script.</message>
+    <entry time="2014-11-16T16:35:47.8188722Z" id="fedcce60-2354-42e9-a126-db3dea9c15da" type="0">
+      <message>Using cached version of deployment script (command: 'azure -y --no-dot-deployment -r "D:\home\site\repository" -o "D:\home\site\deployments\tools" --basic --sitePath "D:\home\site\repository"').</message>
+    </entry>
+  </entry>
+  <entry time="2014-11-16T16:35:47.8969958Z" id="79075b7f-7020-48ed-9356-ce573451b4f8" type="0">
+    <message>Running deployment command...</message>
+    <entry time="2014-11-16T16:35:47.9126181Z" id="e5fb899e-9d2d-4380-874b-f8d227d2964b" type="0">
+      <message>Command: "D:\home\site\deployments\tools\deploy.cmd"</message>
+    </entry>
+    <entry time="2014-11-16T16:35:48.3501176Z" id="bb5a47a6-79e2-49b5-99b2-5bfa7a25c911" type="0">
+      <message>Handling Basic Web Site deployment.</message>
+    </entry>
+    <entry time="2014-11-16T16:35:48.63138Z" id="a3d9c368-36a9-4dfd-9c05-7ed36da458de" type="0">
+      <message>KuduSync.NET from: 'D:\home\site\repository' to: 'D:\home\site\wwwroot'</message>
+    </entry>
+    <entry time="2014-11-16T16:35:48.6782273Z" id="bea2cc7c-92dc-4902-a40e-e7a8174368b3" type="0">
+      <message>Finished successfully.</message>
+    </entry>
+  </entry>
+  <entry time="2014-11-16T16:35:48.7407316Z" id="56f97250-032b-40e2-875a-56ec712ce2e0" type="0">
+    <message>Deployment successful.</message>
+  </entry>
+</entries>

@@ -269,3 +269,24 @@
 [16-Nov-2014 06:50:35 America/Los_Angeles] PHP Warning:  file_get_contents(http://en.wikipedia.com/wiki/HackRPI): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
  in D:\home\site\wwwroot\generate.php on line 13
 [16-Nov-2014 06:50:35 America/Los_Angeles] PHP Notice:  Trying to get property of non-object in D:\home\site\wwwroot\generate.php on line 16
+[16-Nov-2014 08:12:01 America/Los_Angeles] PHP Warning:  file_get_contents(http://en.wikipedia.com/wiki/HackRPI): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in D:\home\site\wwwroot\generate.php on line 13
+[16-Nov-2014 08:12:01 America/Los_Angeles] PHP Notice:  Trying to get property of non-object in D:\home\site\wwwroot\generate.php on line 16
+[16-Nov-2014 08:20:31 America/Los_Angeles] PHP Warning:  file_get_contents(http://en.wikipedia.com/wiki/Throwing_Knife): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in D:\home\site\wwwroot\generate.php on line 13
+[16-Nov-2014 08:20:31 America/Los_Angeles] PHP Notice:  Trying to get property of non-object in D:\home\site\wwwroot\generate.php on line 16
+[16-Nov-2014 08:22:40 America/Los_Angeles] PHP Warning:  file_get_contents(http://en.wikipedia.com/wiki/Throwing_Knife): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in D:\home\site\wwwroot\generate.php on line 13
+[16-Nov-2014 08:22:40 America/Los_Angeles] PHP Notice:  Trying to get property of non-object in D:\home\site\wwwroot\generate.php on line 16
+[16-Nov-2014 08:29:17 America/Los_Angeles] PHP Warning:  file_get_contents(http://en.wikipedia.com/wiki/HackRPI): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in D:\home\site\wwwroot\generate.php on line 13
+[16-Nov-2014 08:29:17 America/Los_Angeles] PHP Notice:  Trying to get property of non-object in D:\home\site\wwwroot\generate.php on line 16
+[16-Nov-2014 09:13:56 America/Los_Angeles] PHP Notice:  Undefined index: headline in D:\home\site\wwwroot\generate.php on line 2
+[16-Nov-2014 09:13:56 America/Los_Angeles] PHP Notice:  Undefined index: sentence in D:\home\site\wwwroot\generate.php on line 3
+[16-Nov-2014 09:13:56 America/Los_Angeles] PHP Notice:  Undefined index: keyword in D:\home\site\wwwroot\generate.php on line 4
+[16-Nov-2014 09:14:01 America/Los_Angeles] PHP Notice:  Undefined index: headline in D:\home\site\wwwroot\generate.php on line 2
+[16-Nov-2014 09:14:01 America/Los_Angeles] PHP Notice:  Undefined index: sentence in D:\home\site\wwwroot\generate.php on line 3
+[16-Nov-2014 09:14:01 America/Los_Angeles] PHP Notice:  Undefined index: keyword in D:\home\site\wwwroot\generate.php on line 4
+[16-Nov-2014 09:14:03 America/Los_Angeles] PHP Notice:  Undefined index: headline in D:\home\site\wwwroot\generate.php on line 2
+[16-Nov-2014 09:14:03 America/Los_Angeles] PHP Notice:  Undefined index: sentence in D:\home\site\wwwroot\generate.php on line 3
+[16-Nov-2014 09:14:03 America/Los_Angeles] PHP Notice:  Undefined index: keyword in D:\home\site\wwwroot\generate.php on line 4
